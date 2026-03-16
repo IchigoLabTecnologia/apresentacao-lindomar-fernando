@@ -8,7 +8,7 @@ body{
    background-image: linear-gradient(
     rgba(0,0,0,0.6),
     rgba(0,0,0,0.6)
-   ), url("Background/galaxy-image.jpg");
+   ), url("fundo/galaxy-image.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
